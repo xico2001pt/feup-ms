@@ -16,5 +16,5 @@ Este repositório contém:
 Final = 0.70 * Projeto + 0.30 * Teste
 
 | Projeto | Teste | Final
-|---|---|---|---|---
+|---|---|---
 | 18.85 | 18.15 | 19
